@@ -86,6 +86,6 @@ This dashboard acts as a comprehensive analytical tool to **monitor, analyze, an
 
 ## 📷 Snpashot
 
-Show what the dashboard looks like: - ![Alt text](https://github.com/username/repo/assets/img.png)
-Example: ![Dashboard Preview].(https://github.com/GithubSameep/Bank-Customer-Churn-Analysis/blob/main/Bank%20Churn%20Dashboard.png)
+Show what the dashboard looks like: -
+Example: ![Dashboard Preview](https://github.com/GithubSameep/Bank-Customer-Churn-Analysis/blob/main/Bank%20Churn%20Dashboard.png)
 
